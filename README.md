@@ -13,7 +13,7 @@ A simple drumkit that allows the user to play drum sounds when pressing down on 
 
 ## Deployment
 
-Demo:
+Demo: https://drumkit-502538.netlify.app/
 
 
 
