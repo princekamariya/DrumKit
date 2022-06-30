@@ -1,4 +1,3 @@
-
 # 🥁 Drum Kit 🥁 
 
 A simple drumkit that allows the user to play drum sounds when pressing down on corresponding key or click on that drums images.
